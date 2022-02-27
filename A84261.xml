@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull nevves from the treaty containing the acts of agreement, between the Kings most Excellent Majesty, and the Parliaments commissioners, on Wednesday, Thursday, Friday, and Saturday last. Brought by the post on Sunday Novemb. 5. 1748. With His gracious speech at the councell table, for His present comming to London, and proclaiming of Peace throughout His realmes and dominions. And the Earl of Northumberlands Declaration thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84261</idno>
+            <idno type="STC">Wing E3767</idno>
+            <idno type="STC">Thomason E470_8</idno>
+            <idno type="STC">ESTC R205537</idno>
+            <idno type="EEBO-CITATION">99864887</idno>
+            <idno type="PROQUEST">99864887</idno>
+            <idno type="VID">162381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull nevves from the treaty containing the acts of agreement, between the Kings most Excellent Majesty, and the Parliaments commissioners, on Wednesday, Thursday, Friday, and Saturday last. Brought by the post on Sunday Novemb. 5. 1748. With His gracious speech at the councell table, for His present comming to London, and proclaiming of Peace throughout His realmes and dominions. And the Earl of Northumberlands Declaration thereupon.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for P. Lovndel,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a letter describing the King's assent to the Proposition of the Church, dated and signed: Newport 4 Octob. 1648. J. Rishton.</note>
+                  <note>Annotation on Thomason copy: "Nou. 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162381:1" rendition="simple:additions"/>
+            <p>Exceeding Joyfull NEVVES FROM THE TREATY <hi>CONTAINING</hi> The Acts of Agreement, between the Kings moſt Excellent Majeſty, and the Parliaments Commiſſioners, on <hi>Wedneſday, Thurſday, Friday,</hi> and <hi>Saturday</hi> laſt. <hi>Brought by the Poſt on</hi> Sunday <hi>Novemb.</hi> 5. 1648. With His gracious Speech at the Councell Table, for His preſent comming to <hi>London,</hi> and proclaiming of <hi>Peace</hi> throughout His Realmes and Dominions. <hi>And the Earl of</hi> Northumberlands <hi>Declaration thereupon.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms of the British royal family</figDesc>
+               <head>
+                  <q>DIEV ET MON DROIT</q>
+               </head>
+               <p>C. R.</p>
+               <p>HONI SOIT QVI MAY Y PENSE</p>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>P. LOVNDEL,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:162381:2"/>
+            <pb n="1" facs="tcp:162381:2"/>
+            <head>JOYFULL NEWES FROM THE TREATY Communicating the proceedings of the Kings Majeſty and the Commiſſioners, on <hi>Wedneſday, Thurſday,</hi> and <hi>Friday</hi> laſt.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>ON <hi>Wedneſday</hi> morning laſt the Kings Majeſty and the Commiſſioners met in the Treaty Chamber, and taking their places at the Councell Table according to the uſuall manner, the Earl of <hi>Northumberland</hi> roſe up, and made a ſhort Speech, <hi>Humbly defiring his Majesty to remove his a<g ref="char:EOLhyphen"/>verſneſse
+<pb n="2" facs="tcp:162381:3"/>from the ſetling of Religion, and to hearken unto the advice of His great and loyall Councell, ſo much tending to the honour of His Majeſty and Poſterity, and the ſetling of a true and laſting peace throughout all His Realms and Dominions.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>Which done, his Lordſhip preſented a Copy of the Parliaments laſt Votes brought by Sir <hi>Peter Killegrey,</hi> on <hi>Tueſday</hi> night laſt, in anſwer to his Majeſties En<g ref="char:EOLhyphen"/>largement of Conceſſions touching Epiſcopacy. His Majeſty (after reading the ſame) roſe up out of the Chair of State, and made a very learned and excellent Speech to the Commiſſioners, the effect whereof was as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>WHereas I find (by your preſent paper) that the two Houſes of Parliament are not ſatisfied with my laſt Conceſſions, I ſhall therefore indeavour (as a fur<g ref="char:EOLhyphen"/>ther teſtimony of Our candid Deſires for peace) to give you a more ample and ſatisfactory Anſwer touching the ſaid particulars; eſpecially that concerning Religion, and therefore (conſidering the period of our dayes) deſire no longer detraction of time, but that we may forthwith inſiſt thereon, to the end, that all differences may be compoſed, and peace and unity establiſhed throughout Our Realmes and Dominions, which God of his infinite mercy grant.</p>
+               </body>
+            </floatingText>
+            <p>His Majeſty having thus graciouſly declared Him<g ref="char:EOLhyphen"/>ſelf, the Commiſſioners began to proceed according to their Inſtructions, and deſired a more fuller and ſa<g ref="char:EOLhyphen"/>tisfactory Anſwer, touching the utter extirpation of
+<pb n="3" facs="tcp:162381:3"/>Epiſcopacy, which took up ſome time of debate in <hi>pro</hi> and <hi>con,</hi> and the day being far ſpent, they referred the further reſults thereof to the happy ſucceſſion of the morrow following.</p>
+            <p>And (accordingly) yeſterday morning they met a<g ref="char:EOLhyphen"/>gain, where the ſtreames of joy iſſued from the cur<g ref="char:EOLhyphen"/>rent of the hearts both of Priuce and People, who came to a finall cloſe upon all the Propoſals, His Ma<g ref="char:EOLhyphen"/>jeſty promiſing upon his Royall Word to paſſe thoſe Bills into Acts which He had already aſſented to. And being further preſſed by the Commiſſioners ſo ſigne to the Bill for the eſtabliſhing of Epiſcopacy, his Ma<g ref="char:EOLhyphen"/>jeſty deſired reſpite of time till Saturday morning, which was accordingly granted.</p>
+            <p>And this morning (about the accuſtomed houre) his Majeſty gave the Commiſſioners a viſit, and ſitting down in the Chair of State, preſented a Paper to them, which is ſaid to be very ſatisfactory, containing His Royall Aſſent to the Propoſition of the Church, and likewiſe to all the reſt of the Bills and Propoſals. This joyfull tydings were ſoon eccho'd throughout the I<g ref="char:EOLhyphen"/>ſland; inſomuch that the Bels rang tryumphantly in all the reſpective Pariſhes. But by reaſon of the ſud<g ref="char:EOLhyphen"/>den diſpatch of the Poſt, I am forced to conclude, and remain</p>
+            <closer>
+               <signed>Your Honours devoted ſervant, <hi>J. RISHTON.</hi>
+               </signed>
+               <dateline>
+                  <hi>Newport</hi> 
+                  <date>4 <hi>Octob.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:162381:4"/>
+            <head>The voice of the Kingdom touching King <hi>Charles.</hi>
+            </head>
+            <p>
+               <hi>VVHereas baſe degenerate Spirits would ſell or their Birthrights for a meſſe of pottage, or a deceitfull ſmile of a ſhadowing Prince induce them to a belief that He would fight for their free<g ref="char:EOLhyphen"/>doms, when they know</hi> that the people throughout all Na<g ref="char:EOLhyphen"/>tions are now ſtaves to their Princes, and cannot be igno<g ref="char:EOLhyphen"/>rant likewiſe how for many Ages together this Deſign hath been violently proſecuted againſt the free Commoners of this Nation. And could it ever be expected that Chri<g ref="char:EOLhyphen"/>ſtians ſhould be ſo inhumane, and ſelf deſtructive to ſheath their ſwords in their own bowels, and fight with their E<g ref="char:EOLhyphen"/>nemies against themſelves, to make themſelves, ſtaves to their enemies and their poſterities for ever, but that they were not ſenſible of their own freedomse, both by the Law of God, Man, and Nature, but deluded by falſe prophets, who taught the works of the Law, and not of Grace, ma<g ref="char:EOLhyphen"/>king the people believe that all power were ordained of God, and to reſiſt theſe powers.</p>
+            <p>
+               <hi>And leſt there ſhould be any of this ſeed yet left in the Nation, ſpreading abroad this doctrine to deceive the people with theſe fallacies, I ſhall give them an explanation of the true ſenſe thereof, and repreſent theſe enſuing Articles or Charge, againſt a perfidious Prince, or an unfaithfull Parliament,</hi> viz.</p>
+            <p n="1">
+               <hi>1</hi> God hath ordained all things in heaven and earth for the good and well being of man; and what power ſoever is contrary to, or acting againſt the ſame, is no power of God, but again his expreſse will and pleaſure, and therefore moſt lawfull to be disobeyed; whereupon the Parl. levyed war againſt the King, and diſobeyed his pretended power.</p>
+            <p n="2">
+               <hi>2</hi> Every Officer appointed for the good of the republike
+<pb n="4" facs="tcp:162381:4"/>and well-government of the people, as the King, parlia<g ref="char:EOLhyphen"/>ment, Iustices of peace, &amp;c. is elected by the people; the King by three ſeverall voices, by way of conſent and appro<g ref="char:EOLhyphen"/>bation of the people, before his Coronation.</p>
+            <p n="3">
+               <hi>3</hi> The Kingly Office as it is a great truſt, ſo the people will not admit him to the execution thereof, without He ſwears to be faithfull in performing the truſt repoſed in Him, executing their Laws and Statutes, for their peace<g ref="char:EOLhyphen"/>able government, and not otherwiſe.</p>
+            <p n="4">
+               <hi>4</hi> In caſe any of the Trustees ſhall forfeit their trust repoſed in them by the people, in breaking their Oaths, vio<g ref="char:EOLhyphen"/>lating the peoples lawes, faeedoms, and priviledges, leavy<g ref="char:EOLhyphen"/>ing war against them, to deſtroy them; the people are bound by the Law of God, Man and Nature to diſobey them, and bring them to ſpeedy tryall for breach of that truſt which they repoſed in them.</p>
+            <p n="5">
+               <hi>5</hi> It is lawfull for the people after ſuch breach of trust to uſe all Coercive power for bringing to condigne pu<g ref="char:EOLhyphen"/>niſhment ſuch Truſtees, and to fight with kill and ſlay all ſuch as ſhall oppoſe them therein.</p>
+            <p>
+               <hi>And it it is further declared,</hi> That if God hath ordai<g ref="char:EOLhyphen"/>ned all things for the good of the people; what earthly principalities or powers which the people have choſen for their good, can injoyn them to obedience in deſtructive and unlawfull? Is not <hi>Salus populi ſuprema Lex,</hi> The peoples ſafety the ſupream Law? And what Lawes and powers there are contrary hereunto, are not they all void, being againſt the ſupreme and higheſt of all Lawes, to which all other must give place and precedency, and all Kings and Parliaments vaile to, and stand in feare of.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:162381:5"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce my laſt, Here hath hapned ſeverall Overture; between his Majeſty and the Parliaments Commiſ<g ref="char:EOLhyphen"/>ſioners; they have had much debate upon the Propo<g ref="char:EOLhyphen"/>ſitions, eſpecially that concerning the Church, which the King ſtuck much at; but the dark Cloud being ex<g ref="char:EOLhyphen"/>pelled, and the ſplendor of the Goſpell ſhining moſt gloriouſly in the eyes of his Majeſty, He was graci<g ref="char:EOLhyphen"/>ouſly pleaſed to declare his Royall Aſſent to all the Propoſitions, and to grant His Royall Word to paſſe all things deſired by his two Houſes, that may be agreeable and conſonant to the fundamentall Lawes of this Kingdom. And as to the buſines of the Church (which is all they ſtick at) the King hath promiſed to give his concurrence therein, rather then his People ſhall ſuffer for his diſ-aſſenting. Juſt upon the cloſe hereof, news came that all things were agreed on, but the Treaty not to break off till ten at night.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Brought by the Post on Sunday</hi> Novemb. 5. 1648. <hi>And dated from</hi> Newport <date>
+                           <hi>on Saturday laſt, at</hi> 3. <hi>of the clock in the Afternoon.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
